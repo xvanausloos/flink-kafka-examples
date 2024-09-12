@@ -7,4 +7,4 @@ Works with repo xvanausloos/flink-kafka-docker-compose.git having Docker contain
 
 Deploy JAR to Flink Docker container:
 `
-docker cp ./target/flink-kakfa-example-1.0-SNAPSHOT.jar flink-kafka-docker-example_jobmanager_1:/tmp/flink-kakfa-example-1.0-SNAPSHOT.jar ``
+docker cp ./target/flink-kakfa-example-1.0.jar flink-kafka-docker-compose-jobmanager-1:/tmp/flink-kakfa-example-1.0.jar ``

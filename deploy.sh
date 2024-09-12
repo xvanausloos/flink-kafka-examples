@@ -1,2 +1,3 @@
 #!/bin/sh
-docker
+
+cp ./target/flink-kafka-examples-1.0.jar ~/wordcountflinkkafka.jar
